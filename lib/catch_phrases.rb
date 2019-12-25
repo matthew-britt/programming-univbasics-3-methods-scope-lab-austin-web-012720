@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link 
-  utters = "It's dangerous to go alone.  Take this."
+  utters = "It's Dangerous To Go Alone.  Take This."
   puts utters
 end
 
