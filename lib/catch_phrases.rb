@@ -8,5 +8,9 @@ def toadstool
   puts status
 end
 
+def link 
+  utters = "It's dangerous to go alone.  Take this."
+  puts utters
+end
 
   
