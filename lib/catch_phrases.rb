@@ -13,4 +13,6 @@ def link
   puts utters
 end
 
+def any_phrase(argument)
+
   
